@@ -53,22 +53,22 @@ def hamza(z):
 		time.sleep(0.03)
 ##### LOGO #####
 banner = """                                                                                   
-\x1b[1;91m °°°°°_______               _______ 
-\x1b[1;91m°°°°°(  ____ \  |\     /|  (       )
-\x1b[1;91m°°°°°| (    \/  ( \   / )  | () () |  I
-\x1b[1;91m°°°°°| (__       \ (_) /   | || || |
-\x1b[1;91m°°°°°|  __)       ) _ (    | |(_)| | LOVE
-\x1b[1;91m°°°°°| (         / ( ) \   | |   | |   
-\x1b[1;91m°°°°°| )        ( /   \ )  | )   ( |  U
-\x1b[1;91m°°°°°|/         |/     \|  |/     \|
-\x1b[1;94m  ❤I WIL NEVER STOP LOVING U❤
+\x1b[1;91m••••••••••_______               _______ 
+\x1b[1;91m••••••••••(  ____ \  |\     /|  (       )
+\x1b[1;91m••••••••••| (    \/  ( \   / )  | () () |  (I)
+\x1b[1;91m••••••••••| (__       \ (_) /   | || || |
+\x1b[1;91m••••••••••|  __)       ) _ (    | |(_)| | (LOVE)
+\x1b[1;91m••••••••••| (         / ( ) \   | |   | |   
+\x1b[1;91m••••••••••| )        ( /   \ )  | )   ( |  (U)
+\x1b[1;91m••••••••••|/         |/     \|  |/     \|
+\x1b[1;93m  ❤I WIL NEVER STOP LOVING U❤
 •••••••••I•••••••LOVE•••••••••YOU••••••••MISHI•••
 \x1b[1;92m➣Lover   :\x1b[1;91mFAISAL KI JAN MISHAL❂ ❂
 \x1b[1;92m➣Github  :\x1b[1;91mHTTPS://GITHUB.COM/QUEEN007❂ 
 \x1b[1;92m➣Facebook:\x1b[1;91mFAISAL REHMAN❂ ❂
 \x1b[1;92m➣PASSION :\x1b[1;91mOF ANYTHING CAN MAKE YOU DO MANYTHINGS ❂
 \x1b[1;92m➣QUEEN OF:\x1b[1;91mCLONING MASTER MISHAL❂ ❂
-\x1b[1;91m➣Gang:NIGHT 007 FAMILY❂ ❂
+\x1b[1;92m➣Gang:NIGHT 007 FAMILY❂ ❂
 \x1b[1;94m ••••••••I•••••••MISs•••••••••YOU••••••••MISHI•••"""
 # titik #
 def tik():
