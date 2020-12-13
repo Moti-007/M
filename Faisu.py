@@ -69,7 +69,7 @@ banner = """
 \x1b[1;91mF::::::::FF                X:::::X       X:::::X     M::::::M               M::::::M
 \x1b[1;91mF::::::::FF                X:::::X       X:::::X     M::::::M               M::::::M
 \x1b[1;91mFFFFFFFFFFF                XXXXXXX       XXXXXXX     MMMMMMMM               MMMMMMMM
-\x1b[1;93mI WILL NEVER STOP LOVING U, AND I’ll CHERISH U AS LONG AS I liVE✫
+\x1b[1;93mI WIL NEVER STOP LOVING U,AND I’ll CHERISH U AS LONG AS I liVE
 •••••••••I•••••••LOVE•••••••••YOU••••••••MISHI•••
 \x1b[1;94m➣Lover   :\x1b[1;91mFAISAL KI JAN MISHAL❂ ❂
 \x1b[1;94m➣Github  :\x1b[1;91mHTTPS://GITHUB.COM/QUEEN007❂ 
